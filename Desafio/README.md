@@ -15,4 +15,10 @@ Orientações necessárias para rodar a aplicação:
       7 - Movimentar conta >> Selicione essa opção quando quiser administrar receitas e despesas de uma conta cadastrada. Você será direcionado para o segundo menu de opções
       9 - Encerrar o programa >> Você encerra o funcionamento do programa.
       
+►► Segundo menu de opções:
+
+	1 - Receitas >> Selecione para adiministrar receitas.
+	2 - Depesas >> Selecione para administrar despesas.
+	9 - Voltar >> Selecione para voltar ao menu anterior.
+      
       

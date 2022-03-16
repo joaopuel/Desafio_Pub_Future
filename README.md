@@ -1,2 +1,3 @@
-# Desafio_Pub_Future
-Aqui está a minha resolução do desafio
+# Programa de Controle Financeiro
+
+Um programa simples na linguagem C para controlar suas finanças.
